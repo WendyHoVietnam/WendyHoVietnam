@@ -6,7 +6,7 @@
 ---
 ## 😊 About me
 
-Transitioning into **Data Analytics** from a background in **executive support** and CRM management, I bring 3 years of experience in keeping data accurate and supporting leadership decisions. Passionate about turning data into clear insights, I'm building my skills in Power BI, SQL, and Python through hands-on projects.
+Transitioning into **Data Analytics** from a background in **executive support** and **CRM management**, I bring 3 years of experience in keeping data accurate and supporting leadership decisions. Passionate about turning data into clear insights, I'm building my skills in Power BI, SQL, and Python through hands-on projects.
 
 ---
 ## 📁 Feature Projects
